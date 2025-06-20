@@ -102,13 +102,15 @@
 ```bash
 # Клонирование репозитория
 git clone https://github.com/learner4691/PhotoGallery.git
+
+# Корневая директория проекта
 cd PhotoGallery
 
 # Инициализация сабмодулей (frontend и server)
 git submodule update --init --recursive
 
 # Установка зависимостей и запуск Backend
-cd PhotoGallery(server)
+cd "PhotoGallery(server)"
 npm install
 npm start
 
@@ -117,7 +119,7 @@ npm start
 cd PhotoGallery
 
 # Установка зависимостей и запуск Frontend
-cd PhotoGallery(frontend)
+cd "PhotoGallery(frontend)"
 npm install
 npm start
 
