@@ -70,33 +70,10 @@
 - **Frontend**: [http://localhost:3000](http://localhost:3000) (по умолчанию для Create React App)
 - **Backend**: [http://localhost:8000](http://localhost:8000) (для API)
 
-<!-- ## 📁 Структура проекта
-
-├── backend/                  # Серверная часть (Express + MongoDB)
-│   ├── models/               # Mongoose-модели
-│   ├── routes/               # Маршруты Express
-│   ├── middleware/           # Middleware-функции (авторизация и др.)
-│   ├── public/uploads/       # Загруженные изображения
-│   ├── serve    # Изображения для фронтенда
-│   ├── src/
-│   │   └── imager.js             # Точка входа сервера (Express + MongoDB)
-│   ├── fixtures.js           # Генерация начальных данных
-│   ├── utils/                # Вспомогательные утилиты
-
-├── frontend/                 # Клиентская часть (React)
-│   ├── public/  s/     
-│   │   ├── components/       # Компоненты 
-│   │   ├── containers/       # Основные страницы
-│   │   ├── store/            # Redux store и слайсы
-│   │   ├── utils/            # Вспомогательные функции
-│   │   ├── App.js            # Главный компонент приложения
-│   │   ├── axiosPhoto.js   # Настройка axios для API
-│   │   ├── constants.js      # Константы проекта
-│   │   ├── index.css         # Глобальные стили приложения
-│   │   └── index.js          # Точка входа React-приложения, подключение Redux и маршрутизации
-│   └── README.md -->
+```markdown
 ## 📁 Структура проекта
 
+```bash
 ├── backend/                  # Серверная часть (Express + MongoDB)
 │   ├── models/               # Mongoose-модели
 │   ├── routes/               # Маршруты Express
@@ -120,6 +97,8 @@
 │   │   ├── index.css         # Глобальные стили
 │   │   └── index.js          # Точка входа React-приложения
 │   └── README.md
+```
+```
 
 
 ## Установка и запуск
