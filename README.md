@@ -104,7 +104,7 @@
 git clone https://github.com/learner4691/PhotoGallery.git
 
 # Корневая директория проекта
-cd PhotoGallery
+cd "PhotoGallery"
 
 # Инициализация сабмодулей (frontend и server)
 git submodule update --init --recursive
@@ -116,7 +116,7 @@ npm start
 
 # Новое окно в bash
 # Корневая директория проекта
-cd PhotoGallery
+cd "PhotoGallery"
 
 # Установка зависимостей и запуск Frontend
 cd "PhotoGallery(frontend)"
