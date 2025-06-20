@@ -89,7 +89,7 @@
 │   ├── src/
 │   │   ├── components/       # Компоненты 
 │   │   ├── containers/       # Основные страницы
-│   │   ├── store/            # Redux store и слайсы
+│   │   ├── store/            # Redux store, экшн и редюсеры
 │   │   ├── utils/            # Вспомогательные функции
 │   │   ├── App.js            # Главный компонент приложения
 │   │   ├── axiosPhoto.js     # Настройка axios для API
