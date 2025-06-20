@@ -1,0 +1,6 @@
+[submodule "PhotoGallery(server)"]
+	path = PhotoGallery(server)
+	url = https://github.com/learner4691/PhotoGallery-Server.git
+[submodule "PhotoGallery(frontend)"]
+	path = PhotoGallery(frontend)
+	url = https://github.com/learner4691/PhotoGallery-Frontend.git
